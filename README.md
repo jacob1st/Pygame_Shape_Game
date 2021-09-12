@@ -13,10 +13,10 @@ All of the sounds currently in the game where quick things I made mainly as plac
 I did first see pygame in a youtube video from Scriptline Studios called "Pygame Top Down Shooter Tutorial #1 - Player Setup" which was a really amazing video that I need to watch more closely.
 
 ```
-RULES:\
-Move and jump with 'w, a, d.' You can triple jump as long as you have enough jump strength left (indicated with the light reen bar).\
-Avoid the green enemies they take health. Three hits and you lose.\
-The red blocks are health boosts: they heal you but not more then 1 over your max health. You start with 3 health.\
-The blue blocks speed you up temporarily and the white ones shrink you temporarily.\
+RULES:
+Move and jump with 'w, a, d.' You can triple jump as long as you have enough jump strength left (indicated with the light reen bar).
+Avoid the green enemies they take health. Three hits and you lose.
+The red blocks are health boosts: they heal you but not more then 1 over your max health. You start with 3 health.
+The blue blocks speed you up temporarily and the white ones shrink you temporarily.
 The higher up you are the more points you earn! The goal is to get the most points as fast as possible!
 ```
