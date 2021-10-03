@@ -6,7 +6,7 @@ I wanted to learn about pygame to compare it with tkinter and while I probably w
 
 This was my first game written in pygame (and pretty much my first game ever). The majority of this code was written with trial and error so there are a lot of mistakes that I know about and that I don't. Eventually I want to be able to go back and fix all of them, but for now this was the best I could do (after I finish up some last things).
 
-I tried following the standards that I knew including certain variable_naming_conventions and made sure to comment my code. (Although I added way too many where I didn't need to and not enough where I did). 
+I tried following the standards that I knew including certain variable_naming_conventions and made sure to comment my code. (Although I added way too many where I didn't need to and not enough where I did. UPDATE: I tried fixing them a little, but I am still not used to PEP-8's comment standards). 
 
 All of the sounds currently in the game where quick things I made mainly as place-holders. To be honest they get annoying, but I was curious how to add sounds and it turned out to be fairly easy.
 
