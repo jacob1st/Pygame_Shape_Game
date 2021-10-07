@@ -1,7 +1,7 @@
 # Pygame_Shape_Game
 ![screen-gif](./readme/shapegame.gif)
 
-(The quality of the gif isn't thje greatest)
+(The quality of the gif isn't the greatest)
 
 
 A game written with pygame where you jump around avoiding enemies
