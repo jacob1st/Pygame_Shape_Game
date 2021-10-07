@@ -1,5 +1,5 @@
 # Pygame_Shape_Game
-![screen-gif](./readme/shapegame.gif)
+![screen-gif](./readme/shape_game_animation.gif)
 
 (The quality of the gif isn't the greatest)
 
