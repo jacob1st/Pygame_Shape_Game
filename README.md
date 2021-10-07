@@ -1,10 +1,14 @@
 # Pygame_Shape_Game
+
+Short clip of the game.
+-
+
 ![screen-gif](./readme/shape_game_animation.gif)
 
 (The quality of the gif isn't the greatest)
 
 
-A game written with pygame where you jump around avoiding enemies
+A game written with pygame where you jump around avoiding enemies.
 It's not completely finished, but it's close enough to post.
 
 I wanted to learn about pygame to compare it with tkinter and while I probably won't go into game development, it's a really exciting and entertaining way to build up my programming skills.
