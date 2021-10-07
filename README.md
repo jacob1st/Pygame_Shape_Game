@@ -1,4 +1,9 @@
 # Pygame_Shape_Game
+![screen-gif](./readme/shapegame.gif)
+
+(The quality of the gif isn't thje greatest)
+
+
 A game written with pygame where you jump around avoiding enemies
 It's not completely finished, but it's close enough to post.
 
